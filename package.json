@@ -1,0 +1,15 @@
+{
+  "name": "tablechamp-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/davemart-in/tablechamp-app.git",
+  "author": "Jermaine Jong <jermaine.jong@nike.com>",
+  "license": "MIT",
+  "scripts": {
+    "host": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
